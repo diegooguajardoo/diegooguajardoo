@@ -1,10 +1,66 @@
-word = "camel"
-score = len(word)
+word = "salt"
+lives = 6
 listword = []
 listword = ("_ " * len(word)).split()
 pword = ""
+stages = ['''
+  +---+
+  |   |
+  O   |
+ /|\  |
+ / \  |
+      |
+=========
+''', '''
+  +---+
+  |   |
+  O   |
+ /|\  |
+ /    |
+      |
+=========
+''', '''
+  +---+
+  |   |
+  O   |
+ /|\  |
+      |
+      |
+=========
+''', '''
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========''', '''
+  +---+
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========
+''', '''
+  +---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========
+''', '''
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========
+''']
 
-while score > 0:
+while lives > 0:
 	guess = input("Guess a letter: ")
 	n = 0
 	found = False
@@ -17,11 +73,14 @@ while score > 0:
 		n += 1
 
 	if found == False:
-		score -=1
+		lives -=1
 
 	if "_" not in listword:
 		print("You win.")
-		score = 0
+		lives = 0
+	else:
+		print(stages[lives])
+	
 	for i in listword:
 		pword += i
 		
