@@ -13,7 +13,7 @@
 -   Predictive Analytics
 -   Business Intelligence
 
-Visit my Resume [Here](diegooguajardoo.github.io/cv/)
+Visit my Resume [Here](https://diegooguajardoo.github.io/cv/))
 .
 <!---
 diegooguajardoo/diegooguajardoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
