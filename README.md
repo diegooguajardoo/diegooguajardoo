@@ -16,7 +16,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lw1whwhg036to3vp7ai1qjaxv2kspad2dx0qhf1n&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/diego-alejandro-guajardo-g%C3%B3mez-b5a6bbba/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
