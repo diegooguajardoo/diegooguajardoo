@@ -14,7 +14,7 @@
 -   Business Intelligence
 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lw1whwhg036to3vp7ai1qjaxv2kspad2dx0qhf1n&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lw1whwhg036to3vp7ai1qjaxv2kspad2dx0qhf1n&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
 Visit my Resume [Here](https://diegooguajardoo.github.io/cv/)
