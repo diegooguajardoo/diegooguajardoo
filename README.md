@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.instagram.com/diego.guajardo/">
-    <img src="https://img.shields.io/badge/Instagram-purple-blue?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-blueviolet?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
