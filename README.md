@@ -10,7 +10,8 @@
 </div>
 
 Visit my Resume [Here](https://diegooguajardoo.github.io/cv/).
- <div align="left>
+
+<div>
   # Diego Guajardo
  ##Skills
 -   Machine Learning
@@ -23,7 +24,7 @@ Visit my Resume [Here](https://diegooguajardoo.github.io/cv/).
 -   Deep Learning
 -   Predictive Analytics
 -   Business Intelligence
-             </div>
+</div>
   
 <!---
 diegooguajardoo/diegooguajardoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
