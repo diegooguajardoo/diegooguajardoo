@@ -12,8 +12,9 @@
 Visit my Resume [Here](https://diegooguajardoo.github.io/cv/).
 
 <div>
-  # Diego Guajardo
- ##Skills
+  <h1> Diego Guajardo </h1>
+  <h2>Skills </h2>
+  <p><ul>
 -   Machine Learning
 -   Data Mining
 -   Statistical Modeling
@@ -24,6 +25,7 @@ Visit my Resume [Here](https://diegooguajardoo.github.io/cv/).
 -   Deep Learning
 -   Predictive Analytics
 -   Business Intelligence
+  </ul>
 </div>
   
 <!---
