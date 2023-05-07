@@ -11,7 +11,7 @@
 
 Visit my Resume [Here](https://diegooguajardoo.github.io/cv/).
 
-<div>
+<div align="left">
   <h1> Diego Guajardo </h1>
   <h2>Skills </h2>
   <p><ul>
