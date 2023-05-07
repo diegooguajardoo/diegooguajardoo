@@ -13,8 +13,9 @@
 -   Predictive Analytics
 -   Business Intelligence
 
-
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lw1whwhg036to3vp7ai1qjaxv2kspad2dx0qhf1n&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+</div>
 
 Visit my Resume [Here](https://diegooguajardoo.github.io/cv/)
 .
